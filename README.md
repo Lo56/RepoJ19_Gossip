@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h2> GOSSIP DATABASE PROJECT ON THP - J19</h2>
 
-Things you may want to cover:
+<h3> by Victor & Laurence - Lorient</h3>
 
-* Ruby version
+<p>This project does not include the Private Message Class, but is working fine.</p>
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
